@@ -1,0 +1,2 @@
+Download German word vectors here:
+https://fasttext.cc/docs/en/crawl-vectors.html
